@@ -1,2 +1,2 @@
 Vamos a configurar 
-nuestro servidor 
+nuestro servidor para el sistema
