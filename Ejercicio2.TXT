@@ -1,0 +1,10 @@
+int temp_1=25;
+	int temp_2=0;
+
+	temp_ideal=Ideal();
+
+	if(temp_2>temp_1){
+	  do{
+		ModVar();
+	  }while(temp_1>temp_2)
+	}
